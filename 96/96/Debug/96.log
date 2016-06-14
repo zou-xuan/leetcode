@@ -1,0 +1,11 @@
+﻿Build started 2016/3/17 10:45:58.
+     1>Project "c:\Users\xuzou\documents\visual studio 2013\Projects\96\96\96.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\xuzou\documents\visual studio 2013\projects\96\96\source.cpp(17): error C4700: uninitialized local variable 'result' used
+     1>Done Building Project "c:\Users\xuzou\documents\visual studio 2013\Projects\96\96\96.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.07
